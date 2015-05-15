@@ -1,0 +1,41 @@
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.exe
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.pdb
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Bilet_Satis.resources
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Properties.Resources.resources
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.csproj.GenerateResource.Cache
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.exe
+C:\Users\Okan\AppData\Local\Temporary Projects\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.pdb
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.exe
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.FilmSec.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Properties.Resources.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.csproj.GenerateResource.Cache
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.exe
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.pdb
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.pdb
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.BiletSatis.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.csprojResolveAssemblyReference.cache
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.YonetimFormu.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Baslangic_Formu.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.yazdır.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Raporlama.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.exe.config
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Film_Yayinla.resources
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\itextsharp.pdfa.dll
+D:\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Film_Yayindan_Kaldir.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.exe.config
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.exe
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.pdb
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.exe
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\Sinema_Bilet_Satis.pdb
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.csprojResolveAssemblyReference.cache
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.BiletSatis.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.FilmSec.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Baslangic_Formu.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Film_Yayindan_Kaldir.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Film_Yayinla.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Properties.Resources.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.Raporlama.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.yazdır.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.YonetimFormu.resources
+C:\Users\Okan\Desktop\Sinema_Bilet_Satis\Sinema_Bilet_Satis\obj\x86\Debug\Sinema_Bilet_Satis.csproj.GenerateResource.Cache
